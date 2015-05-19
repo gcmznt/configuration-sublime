@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+s"], "command": "sort_lines", "args": {"case_sensitive": false} }
+]

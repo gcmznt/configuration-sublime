@@ -1,0 +1,42 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"Abacus",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorcoder",
+		"Comment-Snippets",
+		"CSS Comments",
+		"CSS3",
+		"CSScomb",
+		"EditorConfig",
+		"Emmet",
+		"FuzzyFilePath",
+		"GitGutter",
+		"Gulp",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript Completions",
+		"jQuery",
+		"LESS",
+		"LoremIpsum",
+		"Mercurial",
+		"Package Control",
+		"Preferences Editor",
+		"Sass",
+		"SASS Snippets",
+		"Schemr",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeServer",
+		"Themr",
+		"TypeScript"
+	]
+}
