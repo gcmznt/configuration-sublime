@@ -11,10 +11,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"CSScomb",
-		"Vintage",
+		"Colorcoder",
 		"CSS3",
-		"Colorcoder"
+		"CSScomb",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
